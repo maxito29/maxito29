@@ -1,8 +1,8 @@
-<h1 align="center">Hola 👋, soy Maximiliano Juliano Lopez Avalos</h1>
+<h1 align="center">Hola, soy Maximiliano Juliano Lopez Avalos</h1>
 <h3 align="center">Estudiante de Desarrollo de Software en Cibertec, Lima 🇵🇪</h3>
 
 <p align="center">
-  🚀 Me apasiona construir soluciones backend con Spring Boot y .NET/C#, y darles vida en el frontend con Angular o React.<br/>
+  🚀 Me apasiona construir soluciones backend con Spring Boot y .NET/C#, y darles vida en el frontend con Angular.<br/>
   📚 Actualmente cursando el Ciclo V, coordinando equipos y trabajando en proyectos reales (gestión de almacenes, e-commerce, apps móviles).
 </p>
 
@@ -45,11 +45,13 @@
 
 ---
 
-### 🐍 Actividad reciente
+### 👻 Actividad reciente
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maxito29/maxito29/output/github-contribution-grid-snake.svg" />
-</p>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maxito29/maxito29/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maxito29/maxito29/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maxito29/maxito29/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
