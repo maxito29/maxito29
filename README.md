@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU-USUARIO" target="_blank">
+  <a href="https://www.linkedin.com/in/maximiliano-juliano-lopez" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:TU-CORREO@gmail.com">
+  <a href="mailto:maxlopezavalos2905@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/maxito29" target="_blank">
