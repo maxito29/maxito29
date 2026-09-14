@@ -1,8 +1,8 @@
-<h1 align="center">Hola 👋, soy Maxito</h1>
+<h1 align="center">Hola 👋, soy Maximiliano Juliano Lopez Avalos</h1>
 <h3 align="center">Estudiante de Desarrollo de Software en Cibertec, Lima 🇵🇪</h3>
 
 <p align="center">
-  🚀 Me apasiona construir soluciones backend con Spring Boot y .NET/C#, y darles vida en el frontend con Angular.<br/>
+  🚀 Me apasiona construir soluciones backend con Spring Boot y .NET/C#, y darles vida en el frontend con Angular o React.<br/>
   📚 Actualmente cursando el Ciclo V, coordinando equipos y trabajando en proyectos reales (gestión de almacenes, e-commerce, apps móviles).
 </p>
 
