@@ -1,16 +1,26 @@
-<h1 align="center">Hola, soy Maximiliano Juliano Lopez Avalos</h1>
+<h1 align="center">Hola 👋, soy Maxito</h1>
 <h3 align="center">Estudiante de Desarrollo de Software en Cibertec, Lima 🇵🇪</h3>
 
-<p align="center">
-  🚀 Me apasiona construir soluciones backend con Spring Boot y .NET/C#, y darles vida en el frontend con Angular.<br/>
-  📚 Actualmente cursando el Ciclo V, coordinando equipos y trabajando en proyectos reales (gestión de almacenes, e-commerce, apps móviles).
-</p>
+<table>
+<tr>
+<td width="60%">
+
+🚀 Me apasiona construir soluciones backend con Spring Boot y .NET/C#, y darles vida en el frontend con Angular.
+
+📚 Actualmente cursando el Ciclo V, coordinando equipos y trabajando en proyectos reales (gestión de almacenes, e-commerce, apps móviles).
+
+</td>
+<td width="40%">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300" />
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/maximiliano-juliano-lopez" target="_blank">
+  <a href="https://www.linkedin.com/in/TU-USUARIO" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:maxlopezavalos2905@gmail.com">
+  <a href="mailto:TU-CORREO@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/maxito29" target="_blank">
