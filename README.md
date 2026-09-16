@@ -5,13 +5,13 @@
 <tr>
 <td width="60%">
 
-🚀 Me apasiona construir soluciones backend con Spring Boot y .NET/C#, y darles vida en el frontend con Angular o React.
+🚀 Me apasiona construir soluciones backend con Spring Boot y .NET/C#, y darles vida en el frontend con Angular.
 
 📚 Actualmente cursando el Ciclo V, coordinando equipos y trabajando en proyectos reales (gestión de almacenes, e-commerce, apps móviles).
 
 </td>
 <td width="40%">
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300" />
+<img src="https://media1.tenor.com/m/LSDeBe2JAfoAAAAC/cat-coding.gif" width="300" />
 </td>
 </tr>
 </table>
@@ -69,6 +69,14 @@
 
 - 🏬 **[Almacén Seguridad](https://github.com/maxito29/almacen-seguridad)** — Sistema de gestión de almacenes multi-sede para empresa de seguridad privada (Spring Boot + Thymeleaf + MySQL).
 - 🛒 **[Fastshop](https://github.com/maxito29/super_market_fastshop)** — E-commerce tipo supermercado, proyecto final DAW1 (Spring Boot + doble Angular).
+
+---
+
+### 🎮 Fuera del código
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/tGNwMYBJqcsAAAAd/logo-anti-mage.gif" width="250" alt="Dota 2" />
+</p>
 
 ---
 
