@@ -38,7 +38,7 @@
 
 ---
 
-### 📊 Estadísticas de GitHub <img src="./gato-cool.gif" width="35" align="center" />
+### <img src="./gato-cool.gif" width="35" align="center" /> Estadísticas de GitHub 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxito29&theme=tokyonight&hide_border=true" />
