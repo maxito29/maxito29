@@ -5,7 +5,7 @@
 <tr>
 <td width="60%">
 
-🚀 Me apasiona construir soluciones backend con Spring Boot y .NET/C#, y darles vida en el frontend con Angular.
+🚀 Me apasiona construir soluciones backend con Spring Boot y .NET/C#, y darles vida en el frontend con Angular o React.
 
 📚 Actualmente cursando el Ciclo V, coordinando equipos y trabajando en proyectos reales (gestión de almacenes, e-commerce, apps móviles).
 
