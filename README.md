@@ -11,7 +11,7 @@
 
 </td>
 <td width="40%">
-<img src="https://media1.tenor.com/m/LSDeBe2JAfoAAAAC/cat-coding.gif" width="300" />
+<img src="./gato-cool.gif" width="300" />
 </td>
 </tr>
 </table>
@@ -41,18 +41,9 @@
 ### 📊 Estadísticas de GitHub <img src="./gato-cool.gif" width="35" align="center" />
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=maxito29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxito29&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxito29&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maxito29&theme=tokyonight&no-frame=true&row=1&column=6" />
-  <img src="./gato-cool.gif" width="80" align="center" />
-</p>
 
 ---
 
@@ -71,13 +62,6 @@
 - 🏬 **[Almacén Seguridad](https://github.com/maxito29/almacen-seguridad)** — Sistema de gestión de almacenes multi-sede para empresa de seguridad privada (Spring Boot + Thymeleaf + MySQL).
 - 🛒 **[Fastshop](https://github.com/maxito29/super_market_fastshop)** — E-commerce tipo supermercado, proyecto final DAW1 (Spring Boot + doble Angular).
 
----
-
-### 🎮 Fuera del código
-
-<p align="center">
-  <img src="https://media1.tenor.com/m/tGNwMYBJqcsAAAAd/logo-anti-mage.gif" width="250" alt="Dota 2" />
-</p>
 
 ---
 
