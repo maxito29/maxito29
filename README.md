@@ -70,13 +70,6 @@
 - 🏬 **[Almacén Seguridad](https://github.com/maxito29/almacen-seguridad)** — Sistema de gestión de almacenes multi-sede para empresa de seguridad privada (Spring Boot + Thymeleaf + MySQL).
 - 🛒 **[Fastshop](https://github.com/maxito29/super_market_fastshop)** — E-commerce tipo supermercado, proyecto final DAW1 (Spring Boot + doble Angular).
 
----
-
-### 🎮 Fuera del código
-
-<p align="center">
-  <img src="https://media1.tenor.com/m/tGNwMYBJqcsAAAAd/logo-anti-mage.gif" width="250" alt="Dota 2" />
-</p>
 
 ---
 
