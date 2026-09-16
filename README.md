@@ -75,7 +75,7 @@
 ### 🎮 Fuera del código
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/tGNwMYBJqcsAAAAd/logo-anti-mage.gif" width="250" alt="Dota 2" />
+  <img src="[https://media1.tenor.com/m/tGNwMYBJqcsAAAAd/logo-anti-mage.gif](https://cdna.artstation.com/p/assets/images/images/031/958/080/original/jason-jose-villania-resu-4-spirits.gif?1605077418)" width="250" alt="Dota 2" />
 </p>
 
 ---
