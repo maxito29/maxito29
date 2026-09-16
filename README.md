@@ -75,9 +75,7 @@
 ### 🎮 Fuera del código
 
 <p align="center">
-  <img src="" width="250" alt="Dota 2" />
-  <img width="520" height="500" alt="image" src="https://github.com/user-attachments/assets/d4dbebd2-4ae8-4e76-a74f-4967f5e7e746" />
-
+  <img src="https://media1.tenor.com/m/tGNwMYBJqcsAAAAd/logo-anti-mage.gif" width="250" alt="Dota 2" />
 </p>
 
 ---
