@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/4cc7d4a4-9710-48a6-b020-bb0d131067af
-
 <h1 align="center">Hola, soy Maximiliano Juliano Lopez Avalos</h1>
 <h3 align="center">Estudiante de Desarrollo de Software en Cibertec, Lima 🇵🇪</h3>
 
