@@ -1,5 +1,5 @@
 <h1 align="center">Maximiliano Juliano Lopez Avalos</h1>
-<h3 align="center">Estudiante de Desarrollo de Software · Cibertec, Lima
+<h3 align="center">Estudiante de Computación e Informática · Cibertec, Lima
   <img src="https://flagcdn.com/24x18/pe.png" width="20" style="vertical-align:middle; margin-left:6px;" />
 </h3>
 
