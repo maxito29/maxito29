@@ -7,24 +7,21 @@
 <tr>
 <td width="60%">
 
-About me
-I’m a Computer Science student at Cibertec (Cycle V), focused on backend development while growing as a full‑stack engineer. I enjoy building custom, innovative solutions and learning new technologies to solve real problems.
+**About me**
 
-What I’m working on
-Currently learning Android development with Kotlin and Android Studio.
+Computer Science student at Cibertec (Cycle V), focused on backend development while growing into a full-stack engineer. I enjoy designing custom, scalable solutions and picking up new technologies to solve real-world problems.
 
-Exploring backend architectures and tools to design scalable, maintainable systems.
+**Currently**
+- Learning Android development with Kotlin and Android Studio
+- Exploring backend architectures and tools for building scalable, maintainable systems
+- Open to collaborating on projects where I can contribute and learn from others
 
-Open to collaborating on projects where I can contribute solutions and learn from others.
+**Interests**
+- Backend development and system design
+- Full-stack learning and experimentation
+- Building tailored, creative solutions
 
-Interests
-Backend development and system design
-
-Full‑stack learning and experimentation
-
-Creating tailored, creative solutions
-
-Outside of tech, I like playing video games, listening to music, walking, and watching anime.
+Outside of tech, I enjoy video games, music, walking, and anime.
 
 </td>
 <td width="40%" align="center">
@@ -46,7 +43,7 @@ Outside of tech, I like playing video games, listening to music, walking, and wa
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Tecnolog%C3%ADas%20y%20Herramientas-0d1117?style=for-the-badge&labelColor=161b22" />
+  <img src="https://img.shields.io/badge/Tech%20Stack-0d1117?style=for-the-badge&labelColor=161b22" />
 </p>
 
 <p align="center">
@@ -54,7 +51,7 @@ Outside of tech, I like playing video games, listening to music, walking, and wa
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Estad%C3%ADsticas%20de%20GitHub-0d1117?style=for-the-badge&labelColor=161b22" />
+  <img src="https://img.shields.io/badge/GitHub%20Stats-0d1117?style=for-the-badge&labelColor=161b22" />
 </p>
 
 <p align="center">
@@ -62,7 +59,7 @@ Outside of tech, I like playing video games, listening to music, walking, and wa
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Actividad%20Reciente-0d1117?style=for-the-badge&labelColor=161b22" />
+  <img src="https://img.shields.io/badge/Recent%20Activity-0d1117?style=for-the-badge&labelColor=161b22" />
 </p>
 
 <picture>
@@ -72,7 +69,7 @@ Outside of tech, I like playing video games, listening to music, walking, and wa
 </picture>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Proyectos%20Destacados-0d1117?style=for-the-badge&labelColor=161b22" />
+  <img src="https://img.shields.io/badge/Featured%20Projects-0d1117?style=for-the-badge&labelColor=161b22" />
 </p>
 
 <table>
@@ -81,7 +78,7 @@ Outside of tech, I like playing video games, listening to music, walking, and wa
 
 **[Almacén Seguridad](https://github.com/maxito29/almacen-seguridad)**
 
-Multi-Site Warehouse Management System (WMS) for a Private Security Company.
+Multi-site Warehouse Management System (WMS) for a private security company.
 
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white" />
@@ -92,7 +89,7 @@ Multi-Site Warehouse Management System (WMS) for a Private Security Company.
 
 **[Fastshop](https://github.com/maxito29/super_market_fastshop)**
 
-Supermarket E-commerce Platform – Final Capstone Project for Web Application Development I.
+Supermarket e-commerce platform — final capstone project for Web Application Development I.
 
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
@@ -103,5 +100,5 @@ Supermarket E-commerce Platform – Final Capstone Project for Web Application D
 </table>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maxito29&label=Visitas+al+perfil&color=0d1117&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=maxito29&label=Profile+views&color=0d1117&style=for-the-badge" />
 </p>
