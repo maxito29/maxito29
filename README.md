@@ -3,21 +3,6 @@
   <img src="https://flagcdn.com/24x18/pe.png" width="20" style="vertical-align:middle; margin-left:6px;" />
 </h3>
 
-<table>
-<tr>
-<td width="60%">
-
-Me apasiona construir soluciones backend con Spring Boot y .NET/C#, y darles vida en el frontend con Angular o React.
-
-Actualmente cursando el Ciclo V, coordinando equipos y trabajando en proyectos reales de gestión de almacenes, e-commerce y aplicaciones móviles.
-
-</td>
-<td width="40%" align="center">
-<img src="./gato-cool.gif" width="260" />
-</td>
-</tr>
-</table>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/TU-USUARIO" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -30,12 +15,32 @@ Actualmente cursando el Ciclo V, coordinando equipos y trabajando en proyectos r
   </a>
 </p>
 
+<table>
+<tr>
+<td width="60%">
+
+Me apasiona construir soluciones backend con Spring Boot y .NET/C#, y darles vida en el frontend con Angular o React.
+
+Actualmente cursando el Ciclo V en Cibertec, coordinando equipos y trabajando en proyectos reales de gestión de almacenes, e-commerce y aplicaciones móviles.
+
+Me gusta aprender tecnologías nuevas, crear soluciones a la medida y aportar en proyectos donde pueda resolver problemas de forma innovadora y creativa.
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="160" />
+<img src="https://media.giphy.com/media/l41YcGTfKt2P8m8E8/giphy.gif" width="160" />
+
+</td>
+</tr>
+</table>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Tecnolog%C3%ADas%20y%20Herramientas-0d1117?style=for-the-badge&labelColor=161b22" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,angular,ts,js,html,css,mysql,git,github,idea,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,angular,ts,js,html,css,mysql,git,github,idea,postman,docker,kotlin,androidstudio" />
 </p>
 
 <p align="center">
