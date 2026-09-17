@@ -1,7 +1,37 @@
-<h1 align="center">Maximiliano Juliano Lopez Avalos</h1>
-<h3 align="center">Estudiante de Computación e Informática · Cibertec, Lima
+<h1 align="center">Hi, I'm Maximiliano Juliano Lopez Avalos</h1>
+<h3 align="center">Computer Science and Information Technology Student · Cibertec, Lima
   <img src="https://flagcdn.com/24x18/pe.png" width="20" style="vertical-align:middle; margin-left:6px;" />
 </h3>
+
+<table>
+<tr>
+<td width="60%">
+
+About me
+I’m a Computer Science student at Cibertec (Cycle V), focused on backend development while growing as a full‑stack engineer. I enjoy building custom, innovative solutions and learning new technologies to solve real problems.
+
+What I’m working on
+Currently learning Android development with Kotlin and Android Studio.
+
+Exploring backend architectures and tools to design scalable, maintainable systems.
+
+Open to collaborating on projects where I can contribute solutions and learn from others.
+
+Interests
+Backend development and system design
+
+Full‑stack learning and experimentation
+
+Creating tailored, creative solutions
+
+Outside of tech, I like playing video games, listening to music, walking, and watching anime.
+
+</td>
+<td width="40%" align="center">
+<img src="./gato-cool.gif" width="260" />
+</td>
+</tr>
+</table>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/TU-USUARIO" target="_blank">
@@ -15,32 +45,12 @@
   </a>
 </p>
 
-<table>
-<tr>
-<td width="60%">
-
-Me apasiona construir soluciones backend con Spring Boot y .NET/C#, y darles vida en el frontend con Angular o React.
-
-Actualmente cursando el Ciclo V en Cibertec, coordinando equipos y trabajando en proyectos reales de gestión de almacenes, e-commerce y aplicaciones móviles.
-
-Me gusta aprender tecnologías nuevas, crear soluciones a la medida y aportar en proyectos donde pueda resolver problemas de forma innovadora y creativa.
-
-</td>
-<td width="40%" align="center">
-
-<img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="160" />
-<img src="https://media.giphy.com/media/l41YcGTfKt2P8m8E8/giphy.gif" width="160" />
-
-</td>
-</tr>
-</table>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Tecnolog%C3%ADas%20y%20Herramientas-0d1117?style=for-the-badge&labelColor=161b22" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,angular,ts,js,html,css,mysql,git,github,idea,postman,docker,kotlin,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,angular,ts,js,html,css,mysql,git,github,idea,postman,docker" />
 </p>
 
 <p align="center">
@@ -71,7 +81,7 @@ Me gusta aprender tecnologías nuevas, crear soluciones a la medida y aportar en
 
 **[Almacén Seguridad](https://github.com/maxito29/almacen-seguridad)**
 
-Sistema de gestión de almacenes multi-sede para una empresa de seguridad privada.
+Multi-Site Warehouse Management System (WMS) for a Private Security Company.
 
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white" />
@@ -82,7 +92,7 @@ Sistema de gestión de almacenes multi-sede para una empresa de seguridad privad
 
 **[Fastshop](https://github.com/maxito29/super_market_fastshop)**
 
-E-commerce tipo supermercado, proyecto final del curso Desarrollo de Aplicaciones Web I.
+Supermarket E-commerce Platform – Final Capstone Project for Web Application Development I.
 
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
